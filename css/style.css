@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+
+  .block {
+    height: 100px;
+    width: 100px;
+    background-color: red
+  }
+  
+  .pgbg{
+    background: lack;
+    float: left;
+    position: fixed;
+    left: -50px;
+    bottom: 1px;
+  }
+  
+  .content{
+    width: 700px;
+    
+  }
